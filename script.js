@@ -5,7 +5,7 @@ const box1 = document.querySelector('.perolas-456');
 const box2 = document.querySelector('.perolas-789');
 const box3 = document.querySelector('.perola-10');
 
-
+//PÉROLAS
 //PEROLA LV7 :   910 000
 //PEROLA LV8 : 1.050 000
 //PEROLA LV9 : 1.190 000
